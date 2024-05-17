@@ -1,4 +1,4 @@
-Graduating soon. Looking to collaborate on anything datafied and interesting
+Just graduated. Hit me up for project colloboration! I love ML applications and tinkering with anything
 
 <!---
 tairayamori/tairayamori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
